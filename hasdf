@@ -1,0 +1,4 @@
+local antiban = true -- ANTI BAN TOGGLE KEEP IT TRUE
+local inf = INFWEN -- REPLACE WITH INFEXP/INFMASTERY OR MAIDENS IF YOU WANT
+game.Players.LocalPlayer:Kick("You were kicked and will possibly be banned because you tried to hack wen") -- anti ban
+print(inf) -- PRINTS AMOUNT OF WEN YOU GET
